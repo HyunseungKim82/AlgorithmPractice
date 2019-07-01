@@ -1,0 +1,4 @@
+﻿  1065.cpp
+c:\users\hyunseung\desktop\baekjoon\baekjoon1065\baekjoon1065\1065.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Baekjoon1065.vcxproj -> C:\Users\Hyunseung\Desktop\Baekjoon\Baekjoon1065\Debug\Baekjoon1065.exe
